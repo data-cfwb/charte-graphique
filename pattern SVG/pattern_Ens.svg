@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 711.53 882.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #3b97c8;
+      }
+
+      .cls-3 {
+        fill: url(#Motof_Enseignement);
+      }
+    </style>
+    <pattern id="Motof_Enseignement" data-name="Motof Enseignement" x="0" y="0" width="68.03" height="68.03" patternTransform="translate(-2314.83 2152.32)" patternUnits="userSpaceOnUse" viewBox="0 0 68.03 68.03">
+      <g>
+        <rect class="cls-1" width="68.03" height="68.03"/>
+        <g>
+          <rect class="cls-2" x="45.11" y="59.85" width="11.82" height="2.74"/>
+          <rect class="cls-2" x="45.11" y="66.66" width="9.04" height="2.74"/>
+        </g>
+        <g>
+          <rect class="cls-2" x="11.1" y="59.85" width="11.82" height="2.74"/>
+          <rect class="cls-2" x="11.1" y="66.66" width="9.04" height="2.74"/>
+        </g>
+        <g>
+          <rect class="cls-2" x="62.12" y="25.83" width="11.82" height="2.74"/>
+          <rect class="cls-2" x="62.12" y="32.64" width="9.04" height="2.74"/>
+          <rect class="cls-2" x="62.12" y="39.46" width="11.82" height="2.74"/>
+        </g>
+        <g>
+          <rect class="cls-2" x="28.11" y="25.83" width="11.82" height="2.74"/>
+          <rect class="cls-2" x="28.11" y="32.64" width="9.04" height="2.74"/>
+          <rect class="cls-2" x="28.11" y="39.46" width="11.82" height="2.74"/>
+        </g>
+        <g>
+          <rect class="cls-2" x="-5.91" y="25.83" width="11.82" height="2.74"/>
+          <rect class="cls-2" x="-5.91" y="32.64" width="9.04" height="2.74"/>
+          <rect class="cls-2" x="-5.91" y="39.46" width="11.82" height="2.74"/>
+        </g>
+        <g>
+          <rect class="cls-2" x="45.11" y="-1.37" width="9.04" height="2.74"/>
+          <rect class="cls-2" x="45.11" y="5.44" width="11.82" height="2.74"/>
+        </g>
+        <g>
+          <rect class="cls-2" x="11.1" y="-1.37" width="9.04" height="2.74"/>
+          <rect class="cls-2" x="11.1" y="5.44" width="11.82" height="2.74"/>
+        </g>
+      </g>
+    </pattern>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <rect class="cls-3" width="711.53" height="882.56"/>
+  </g>
+</svg>

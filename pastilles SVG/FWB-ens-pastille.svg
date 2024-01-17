@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="86px" viewBox="0 0 86 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FWB-ens-pastille</title>
+    <g id="FWB-ens-pastille" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M83.229,43.48 C83.229,65.964 65.003,84.19 42.52,84.19 C20.036,84.19 1.81,65.964 1.81,43.48 C1.81,20.997 20.036,2.771 42.52,2.771 C65.003,2.771 83.229,20.997 83.229,43.48" id="Fill-1" fill="#3D8CB3"></path>
+        <polygon id="Fill-2" fill="#FFFFFE" points="26.337 28.664 58.513 28.664 58.513 21.2 26.337 21.2"></polygon>
+        <polygon id="Fill-3" fill="#FFFFFE" points="26.337 47.213 50.943 47.213 50.943 39.749 26.337 39.749"></polygon>
+        <polygon id="Fill-4" fill="#FFFFFE" points="26.337 65.761 58.513 65.761 58.513 58.297 26.337 58.297"></polygon>
+    </g>
+</svg>

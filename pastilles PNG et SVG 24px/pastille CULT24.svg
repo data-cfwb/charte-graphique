@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pastille CULT24</title>
+    <g id="pastille-CULT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FWB-culture-pastille" fill-rule="nonzero">
+            <path d="M24,11.9998526 C24,18.6274948 18.6274948,24 12.0001474,24 C5.37250519,24 0,18.6274948 0,11.9998526 C0,5.37250519 5.37250519,0 12.0001474,0 C18.6274948,0 24,5.37250519 24,11.9998526" id="Fill-1" fill="#D86F6F"></path>
+            <path d="M14,19 C10.1401722,19 7,16.0839944 7,12.499707 C7,8.91571261 10.1401722,6 14,6 L14,8.18649148 C11.438455,8.18649148 9.3548925,10.1216082 9.3548925,12.499707 C9.3548925,14.8783918 11.438455,16.8135085 14,16.8135085 L14,19" id="Fill-2" fill="#FFFFFE"></path>
+        </g>
+    </g>
+</svg>

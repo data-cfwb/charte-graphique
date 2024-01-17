@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="442px" viewBox="0 0 400 442" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AJ picto</title>
+    <g id="AJ-picto" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="400" height="442"></rect>
+        <g id="FWB-aj-picto" transform="translate(31.000000, 72.000000)" fill="#75BF8B">
+            <path d="M218.00519,297 C151.28702,297 97,241.511531 97,173.296156 L144.207232,173.296156 C144.207232,215.251491 177.311985,249.385355 218.00519,249.385355 C258.688015,249.385355 291.797958,215.251491 291.797958,173.296156 L291.797958,60 L339,60 L339,173.296156 C339,241.511531 284.723361,297 218.00519,297" id="Fill-1"></path>
+            <polyline id="Fill-2" points="208.733067 149 119.313218 65.0934741 32.1888553 146.483905 0 111.52591 119.380886 0 241 114.125875 208.733067 149"></polyline>
+        </g>
+    </g>
+</svg>

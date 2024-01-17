@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pastille ENS24</title>
+    <g id="pastille-ENS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FWB-ens-pastille" fill-rule="nonzero">
+            <path d="M24,11.9998526 C24,18.6274948 18.6274948,24 12.0001474,24 C5.37250519,24 0,18.6274948 0,11.9998526 C0,5.37250519 5.37250519,0 12.0001474,0 C18.6274948,0 24,5.37250519 24,11.9998526" id="Fill-1" fill="#3D8CB3"></path>
+            <polygon id="Fill-2" fill="#FFFFFE" points="8 8 18 8 18 6 8 6"></polygon>
+            <polygon id="Fill-3" fill="#FFFFFE" points="7 13 15 13 15 11 7 11"></polygon>
+            <polygon id="Fill-4" fill="#FFFFFE" points="8 18 18 18 18 16 8 16"></polygon>
+        </g>
+    </g>
+</svg>

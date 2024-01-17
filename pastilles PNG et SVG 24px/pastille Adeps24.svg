@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pastille Adeps24</title>
+    <g id="pastille-Adeps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FWB-adeps-pastille" fill-rule="nonzero">
+            <path d="M24,11.9998526 C24,18.6274948 18.6274948,24 12.0001474,24 C5.37250519,24 0,18.6274948 0,11.9998526 C0,5.37250519 5.37250519,0 12.0001474,0 C18.6274948,0 24,5.37250519 24,11.9998526" id="Fill-1" fill="#E5974F"></path>
+            <polyline id="Fill-2" fill="#FFFFFE" points="13.1221543 5 18 13.1503239 15.3026988 13.1503239 13.0791172 9.43503567 7.72786374 18 5 18 13.1221543 5"></polyline>
+        </g>
+    </g>
+</svg>

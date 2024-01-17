@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="86px" viewBox="0 0 86 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FWB-mj-pastille</title>
+    <g id="FWB-mj-pastille" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M83.229,43.48 C83.229,65.964 65.003,84.19 42.52,84.19 C20.036,84.19 1.81,65.964 1.81,43.48 C1.81,20.997 20.036,2.771 42.52,2.771 C65.003,2.771 83.229,20.997 83.229,43.48" id="Fill-1" fill="#AB74A5"></path>
+        <polyline id="Fill-2" fill="#FFFFFE" points="60.162 65.678 53.04 63.45 60.588 39.325 42.868 26.943 24.606 39.846 32.636 62.734 25.593 65.206 15.697 37.002 42.845 17.822 69.343 36.336 60.162 65.678"></polyline>
+    </g>
+</svg>
