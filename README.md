@@ -5,7 +5,7 @@
 ### Couleurs principales
 
 | Nom | RVB | CMJN | Hex |
-| --- | --- | --- | --- |
+| --- | ---| ---| --- |
 | Aide à la jeunesse | `133 195 142` | `53 1 55 0` | ![#85C38E](https://placehold.co/15x15/85C38E/85C38E.png) `#85C38E` |
 | Recherche scientifique | `66 160 158` |  `72 17 40 2` | ![#42A09E](https://placehold.co/15x15/42A09E/42A09E.png) `#42A09E` |
 | Enseignement | `58 151 201` | `73 27 8 0` | ![#3A97C9](https://placehold.co/15x15/3A97C9/3A97C9.png) `#3A97C9` |
@@ -15,8 +15,8 @@
 
 ### Couleurs secondaires
 
-| Nom | Hex | Pourcentage sec 1| Pourcentage sec 2 |
-| --- | --- | --- | --- |
+| Nom | Hex | Couleur secondaire variante 1 | Couleur secondire variante 2 |
+| --- | --- | ---| ---|
 | Aide à la jeunesse | ![#85C38E](https://placehold.co/15x15/85C38E/85C38E.png) `#85C38E` | 60% | 35% |
 | Recherche scientifique | ![#42A09E](https://placehold.co/15x15/42A09E/42A09E.png) `#42A09E` | 60% | 35% |
 | Enseignement | ![#3A97C9](https://placehold.co/15x15/3A97C9/3A97C9.png) `#3A97C9` | 60% | 35% |
