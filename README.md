@@ -16,7 +16,7 @@
 ### Couleurs secondaires
 
 | Acronyme | Nom  | slug | Hex | Var 1 | Var 2 |
-| | --- |:---:| ---:| ---:| ---:|
+| --- | --- |:---:| ---:| ---:| ---:|
 | AJ | Aide à la jeunesse | agaj | ![#85C38E](https://placehold.co/15x15/85C38E/85C38E.png) `#85C38E` | 60% | 35% |
 | RS | Recherche scientifique | sg_rs | ![#42A09E](https://placehold.co/15x15/42A09E/42A09E.png) `#42A09E` | 60% | 35% |
 | ENS | Enseignement | age |  ![#3A97C9](https://placehold.co/15x15/3A97C9/3A97C9.png) `#3A97C9` | 60% | 35% |
