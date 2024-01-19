@@ -25,7 +25,7 @@
 | Adeps | Adeps | ags | ![#ED9E41](https://placehold.co/15x15/ED9E41/ED9E41.png) `#ED9E41` | 60% | 35% |
 | Gris | grey | grey | ![#4A5563](https://placehold.co/15x15/4A5563/4A5563.png) `#4A5563` | 60% | 35% |
 | Bleu | default-blue | default-blue  | ![#303675](https://placehold.co/15x15/303675/303675.png) `#303675` | 60% | 35% |
-| Bleu clair | default-light | default-light | ![#49508B](https://placehold.co/15x15/49508B/49508B.png) `#49508B` | 60% | 35% |
+| Bleu clair | light-blue | light-blue | ![#49508B](https://placehold.co/15x15/49508B/49508B.png) `#49508B` | 60% | 35% |
 | Bleu foncé | dark-blue | dark-blue | ![#2F3765](https://placehold.co/15x15/2F3765/2F3765.png) `#2F3765` | 60% | 35% |
 
 ### Couleurs logos
