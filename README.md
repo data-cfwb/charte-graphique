@@ -23,7 +23,7 @@
 | MJ | Maison de Justice | agmj | ![#BE80B6](https://placehold.co/15x15/BE80B6/BE80B6.png) `#BE80B6` | 60% | 35% |
 | CULT | Culture | agc | ![#E37276](https://placehold.co/15x15/E37276/E37276.png) `#E37276`| 60% | 35% |
 | Adeps | Adeps | ags | ![#ED9E41](https://placehold.co/15x15/ED9E41/ED9E41.png) `#ED9E41` | 60% | 35% |
-| Gris | grey | grey | ![#4A5563](https://placehold.co/15x15/4A5563/4A5563.png) `#4A5563` | 60% | 35% |
+| Gris | gray | gray | ![#4A5563](https://placehold.co/15x15/4A5563/4A5563.png) `#4A5563` | 60% | 35% |
 | Bleu | default-blue | default-blue  | ![#303675](https://placehold.co/15x15/303675/303675.png) `#303675` | 60% | 35% |
 | Bleu clair | light-blue | light-blue | ![#49508B](https://placehold.co/15x15/49508B/49508B.png) `#49508B` | 60% | 35% |
 | Bleu foncé | dark-blue | dark-blue | ![#2F3765](https://placehold.co/15x15/2F3765/2F3765.png) `#2F3765` | 60% | 35% |
