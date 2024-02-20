@@ -30,7 +30,7 @@
 
 ### Couleurs logos
 
-![logo](https://raw.githubusercontent.com/data-cfwb/charte-graphique/main/logo_FWB%20PNG%20et%20SVG/logo-fw-b-couleur.svg)
+![logo](https://raw.githubusercontent.com/data-cfwb/charte-graphique/0f4c172f9f1598abe7030dca3abc2c5c9d443621/pastilles_PNG/logo_FWB_couleur.png)
 
 | Couleur | Pantone 2016 | CMJN | RVB | Hex |
 | --- | --- | --- | --- | --- |
