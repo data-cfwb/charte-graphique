@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
 .logo {
-    background-image: url(https://raw.githubusercontent.com/data-cfwb/.github/main/logo_data_office.png);
+    background-image: url(https://raw.githubusercontent.com/data-cfwb/charte-graphique/refs/heads/main/custom_css/data_dbt.png);
     background-repeat: no-repeat;
     background-color: transparent;
     
     /* Define the size of the container */
-    width: 150px; /* Adjust width as needed */
-    height: 150px; /* Adjust height as needed */
+    width: 280px !important;
+    height: 92px !important;
     
     /* Control the size of the background image */
     background-size: contain; /* Scales the image to fit the container */
