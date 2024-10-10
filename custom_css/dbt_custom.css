@@ -5,8 +5,8 @@
     background-color: transparent;
     
     /* Define the size of the container */
-    width: 280px !important;
-    height: 92px !important;
+    width: 140px !important;
+    height: 46px !important;
     
     /* Control the size of the background image */
     background-size: contain; /* Scales the image to fit the container */
