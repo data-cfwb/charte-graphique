@@ -28,7 +28,10 @@ p {
   font-family: 'Source Sans Pro';
   font-size: 17px !important;
 }
-
+code {
+  font-size: 17px !important;
+  color: #6666c4 !important;
+}
 .btn-info {
     background-color: #6666c4 !important;
 }
