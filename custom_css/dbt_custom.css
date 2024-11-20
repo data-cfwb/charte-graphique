@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
-img.logo {
+.logo {
     background-image: url(https://raw.githubusercontent.com/data-cfwb/charte-graphique/refs/heads/main/custom_css/data_dbt.png);
     background-repeat: no-repeat;
     background-color: transparent;
@@ -11,6 +11,11 @@ img.logo {
     /* Control the size of the background image */
     background-size: contain; /* Scales the image to fit the container */
     background-position: center; /* Centers the image in the container */
+}
+
+img.logo {
+    visibility: hidden;
+    opacity: 0;
 }
 
 body {
