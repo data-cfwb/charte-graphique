@@ -5,13 +5,13 @@
     "body": [
         {
             "type": "TextBlock",
-            "text": "{{app_title}}",
+            "text": "{{ app_title }}",
             "weight": "Bolder",
             "separator": true
         },
         {
             "type": "TextBlock",
-            "text": "{{app_body}}",
+            "text": "{{ app_body }}",
             "wrap": true
         }
     ]
