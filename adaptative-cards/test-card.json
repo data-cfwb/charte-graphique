@@ -1,48 +1,13 @@
 {
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
     "type": "AdaptiveCard",
+    "version": "1.0",
     "body": [
         {
             "type": "TextBlock",
-            "size": "Medium",
+            "text": "{{app_title}}",
             "weight": "Bolder",
-            "text": "{{app_title}}"
-        },
-        {
-            "type": "ColumnSet",
-            "columns": [
-                {
-                    "type": "Column",
-                    "items": [
-                        {
-                            "type": "Image",
-                            "style": "Person",
-                            "url": "{{app_body}}",
-                            "altText": "{{app_title}}",
-                            "size": "Small"
-                        }
-                    ],
-                    "width": "auto"
-                },
-                {
-                    "type": "Column",
-                    "items": [
-                        {
-                            "type": "TextBlock",
-                            "weight": "Bolder",
-                            "text": "{{app_title}}",
-                            "wrap": true
-                        },
-                        {
-                            "type": "TextBlock",
-                            "spacing": "None",
-                            "text": "{{app_title}}",
-                            "isSubtle": true,
-                            "wrap": true
-                        }
-                    ],
-                    "width": "stretch"
-                }
-            ]
+            "separator": true
         },
         {
             "type": "TextBlock",
@@ -50,43 +15,9 @@
             "wrap": true
         },
         {
-            "type": "FactSet",
-            "facts": [
-                {
-                    "$data": "{{app_title}}",
-                    "title": "{{app_title}}:",
-                    "value": "{{app_title}}"
-                }
-            ]
+            "type": "TextBlock",
+            "text": "Hello {{ target }}, how are you {{ whence }}?",
+            "wrap": true
         }
-    ],
-    "actions": [
-        {
-            "type": "Action.ShowCard",
-            "title": "Set due date",
-            "card": {
-                "type": "AdaptiveCard",
-                "body": [
-                    {
-                        "type": "Input.Date",
-                        "id": "dueDate"
-                    },
-                    {
-                        "type": "Input.Text",
-                        "id": "comment",
-                        "placeholder": "Add a comment",
-                        "isMultiline": true
-                    }
-                ],
-                "$schema": "http://adaptivecards.io/schemas/adaptive-card.json"
-            }
-        },
-        {
-            "type": "Action.OpenUrl",
-            "title": "View",
-            "url": "${viewUrl}"
-        }
-    ],
-    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
-    "version": "1.5"
+    ]
 }
