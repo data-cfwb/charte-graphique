@@ -34,6 +34,11 @@ code {
   font-size: 14px !important;
   color: #6666c4 !important;
 }
+
+pre {
+    background-color: #f9fafb !important;
+}
+
 .btn-info {
     background-color: #6666c4 !important;
 }
@@ -68,3 +73,5 @@ code {
 .text-navy-lightest {
     color: #367cc2 !important;
 }
+
+
