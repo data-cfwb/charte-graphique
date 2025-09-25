@@ -39,6 +39,10 @@ pre {
     background-color: #f9fafb !important;
 }
 
+.highlight {
+    background-color: #f9fafb !important;
+}
+
 .btn-info {
     background-color: #6666c4 !important;
 }
@@ -73,5 +77,6 @@ pre {
 .text-navy-lightest {
     color: #367cc2 !important;
 }
+
 
 
